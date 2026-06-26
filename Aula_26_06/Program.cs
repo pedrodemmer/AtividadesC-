@@ -6,6 +6,10 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine();
+        if (1 < 3)
+        {
+            Console.WriteLine("é menor");
+        }
             
     }
 }
