@@ -1,0 +1,15 @@
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\bin\Debug\net10.0\Exercicio26.exe
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\bin\Debug\net10.0\Exercicio26.deps.json
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\bin\Debug\net10.0\Exercicio26.runtimeconfig.json
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\bin\Debug\net10.0\Exercicio26.dll
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\bin\Debug\net10.0\Exercicio26.pdb
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.AssemblyInfoInputs.cache
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.AssemblyInfo.cs
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.csproj.CoreCompileInputs.cache
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.sourcelink.json
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.dll
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\refint\Exercicio26.dll
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.pdb
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\Exercicio26.genruntimeconfig.cache
+C:\Users\moc\RiderProjects\Aula_26_06\Exercicio26\obj\Debug\net10.0\ref\Exercicio26.dll
