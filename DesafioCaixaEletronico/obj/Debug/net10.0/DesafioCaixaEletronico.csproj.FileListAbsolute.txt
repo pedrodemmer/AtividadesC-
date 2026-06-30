@@ -1,0 +1,15 @@
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\bin\Debug\net10.0\DesafioCaixaEletronico.exe
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\bin\Debug\net10.0\DesafioCaixaEletronico.deps.json
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\bin\Debug\net10.0\DesafioCaixaEletronico.runtimeconfig.json
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\bin\Debug\net10.0\DesafioCaixaEletronico.dll
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\bin\Debug\net10.0\DesafioCaixaEletronico.pdb
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.AssemblyInfo.cs
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.sourcelink.json
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.dll
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\refint\DesafioCaixaEletronico.dll
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.pdb
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\DesafioCaixaEletronico.genruntimeconfig.cache
+C:\Users\moc\RiderProjects\AtividadesC-\DesafioCaixaEletronico\obj\Debug\net10.0\ref\DesafioCaixaEletronico.dll

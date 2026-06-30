@@ -1,0 +1,15 @@
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\bin\Debug\net10.0\ExercicioEleicao.exe
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\bin\Debug\net10.0\ExercicioEleicao.deps.json
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\bin\Debug\net10.0\ExercicioEleicao.runtimeconfig.json
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\bin\Debug\net10.0\ExercicioEleicao.dll
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\bin\Debug\net10.0\ExercicioEleicao.pdb
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.AssemblyInfoInputs.cache
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.AssemblyInfo.cs
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.csproj.CoreCompileInputs.cache
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.sourcelink.json
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.dll
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\refint\ExercicioEleicao.dll
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.pdb
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ExercicioEleicao.genruntimeconfig.cache
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioEleicao\obj\Debug\net10.0\ref\ExercicioEleicao.dll

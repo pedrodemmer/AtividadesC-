@@ -1,0 +1,15 @@
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\bin\Debug\net10.0\ExercicioPlaylist.exe
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\bin\Debug\net10.0\ExercicioPlaylist.deps.json
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\bin\Debug\net10.0\ExercicioPlaylist.runtimeconfig.json
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\bin\Debug\net10.0\ExercicioPlaylist.dll
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\bin\Debug\net10.0\ExercicioPlaylist.pdb
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.AssemblyInfoInputs.cache
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.AssemblyInfo.cs
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.sourcelink.json
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.dll
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\refint\ExercicioPlaylist.dll
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.pdb
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ExercicioPlaylist.genruntimeconfig.cache
+C:\Users\moc\RiderProjects\AtividadesC-\ExercicioPlaylist\obj\Debug\net10.0\ref\ExercicioPlaylist.dll
