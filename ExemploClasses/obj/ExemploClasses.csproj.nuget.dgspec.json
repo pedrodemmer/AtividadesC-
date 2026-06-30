@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moc\\RiderProjects\\Aula_26_06\\ExemploClasses\\ExemploClasses.csproj": {}
+    "C:\\Users\\moc\\RiderProjects\\AtividadesC-\\ExemploClasses\\ExemploClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moc\\RiderProjects\\Aula_26_06\\ExemploClasses\\ExemploClasses.csproj": {
+    "C:\\Users\\moc\\RiderProjects\\AtividadesC-\\ExemploClasses\\ExemploClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moc\\RiderProjects\\Aula_26_06\\ExemploClasses\\ExemploClasses.csproj",
+        "projectUniqueName": "C:\\Users\\moc\\RiderProjects\\AtividadesC-\\ExemploClasses\\ExemploClasses.csproj",
         "projectName": "ExemploClasses",
-        "projectPath": "C:\\Users\\moc\\RiderProjects\\Aula_26_06\\ExemploClasses\\ExemploClasses.csproj",
+        "projectPath": "C:\\Users\\moc\\RiderProjects\\AtividadesC-\\ExemploClasses\\ExemploClasses.csproj",
         "packagesPath": "C:\\Users\\moc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moc\\RiderProjects\\Aula_26_06\\ExemploClasses\\obj\\",
+        "outputPath": "C:\\Users\\moc\\RiderProjects\\AtividadesC-\\ExemploClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\moc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\moc\\.dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

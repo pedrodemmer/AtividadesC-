@@ -2,33 +2,40 @@
 
 class Program
 {
+    public static double saldo = 0;
     static void Main(string[] args)
     {
-        CadastrarSaldo saldo = new CadastrarSaldo();
         Console.WriteLine("*** Caixa Eletronico ***");
         Console.Write("Cadastrar Saldo: R$");
-        saldo.Cadastrar(Convert.ToDouble(Console.ReadLine()));
+        saldo = double.Parse(Console.ReadLine());
+        
+        while (true)
+        {   
+            Console.Clear();
+            Console.WriteLine("*** Caixa Eletronico ***");
+            Console.WriteLine("Dinheiro na conta: R$"+saldo);
+            Console.WriteLine("[1] Depositar Dinheiro \n[2] Sacar Dinheiro \n[0] Sair");
+            int menu = int.Parse(Console.ReadLine());
+            if(menu == 0) break;
 
-        Console.WriteLine("[1] Depositar Dinheiro \n [2] Sacar Dinheiro");
-        int menu = int.Parse(Console.ReadLine());
-
-        switch (menu)
-        {
-            case 1:
+            switch (menu)
             {
-                Console.WriteLine("Quantidade Desejada para Depositar: R$");
-                double dinheiro = double.Parse(Console.ReadLine());
-                AcoesCaixa.Depositar(saldo, dinheiro);
-                break;
+                case 1:
+                {
+                    Console.WriteLine("Quantidade Desejada para Depositar: R$");
+                    double dinheiro = double.Parse(Console.ReadLine());
+                    saldo = AcoesCaixa.Depositar(saldo, dinheiro);
+                    break;
+                }
+                case 2:
+                {
+                    Console.WriteLine("Quantidade Desejada para Sacar: R$");
+                    double dinheiro = double.Parse(Console.ReadLine());
+                    saldo = AcoesCaixa.Sacar(saldo, dinheiro);
+                    break;
+                }
+                default: break;
             }
-            case 2:
-            {
-                Console.WriteLine("Quantidade Desejada para Sacar: R$");
-                double dinheiro = double.Parse(Console.ReadLine());
-                AcoesCaixa.Sacar(saldo, dinheiro);
-                break;
-            }
-            default: break;
         }
     }
 }
